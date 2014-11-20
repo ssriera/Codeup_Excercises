@@ -1,3 +1,1 @@
 Codeup Everglades cohort
-
-## Header
