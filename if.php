@@ -43,5 +43,5 @@
  if ($b !== $c) {
      echo "$b is not identical to $c\n";
  }
+?>
 
- ?>

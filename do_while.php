@@ -24,3 +24,18 @@ do {
 	$a = $a * $a;
 } while ($a <= 1000000);
 ?>
+
+<?php
+$a = 1;
+do {
+	echo `this message will self destruct`;
+} while ($a = 1);
+
+usleep (2000);
+echo `say 3`;
+usleep (2000);
+echo `say 2`;
+usleep (2000);
+echo `say 1`;
+
+?>
